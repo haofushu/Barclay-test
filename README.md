@@ -1,6 +1,5 @@
 # Barclay-test
 Sample Input
-
 create Book01 10.50 13.79
 create Food01 1.47 3.98
 create Med01 30.63 34.29
